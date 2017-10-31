@@ -177,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #222222;
 }
 
 .navbar-default .navbar-brand {
@@ -262,7 +262,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color:#2E3D61;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -729,6 +729,7 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    background-color:#2E3D61;
 }
 
 footer span.copyright {
@@ -736,6 +737,7 @@ footer span.copyright {
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
+    color: #fec503;
 }
 
 footer ul.quicklinks {
@@ -877,4 +879,12 @@ body {
     position: relative;
     top: 0px
     z-index: 100;
+}
+
+.apostal-header{
+    color: #FFFFFF;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 22px;
+    font-style: italic;
+    line-height: 22px;
 }
