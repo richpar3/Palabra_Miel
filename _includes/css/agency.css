@@ -946,18 +946,18 @@ body {
 }
 
 .cb-slideshow li:nth-child(1) span { 
-    background-image: url(../img/portfolio/Alabanza.jpg) 
+    background-image: url(img/portfolio/Alabanza.jpg) 
 }
 .cb-slideshow li:nth-child(2) span { 
-    background-image: url(../img/portfolio/Ancianos.jpg);
+    background-image: url(img/portfolio/Ancianos.jpg);
     animation-delay: 6s; 
 }
 .cb-slideshow li:nth-child(3) span { 
-    background-image: url(../img/portfolio/Damas.jpg);
+    background-image: url(img/portfolio/Damas.jpg);
     animation-delay: 12s; 
 }
 .cb-slideshow li:nth-child(4) span { 
-    background-image: url(../img/portfolio/Varones.jpg);
+    background-image: url(img/portfolio/Varones.jpg);
     animation-delay: 18s; 
 }
 .cb-slideshow li:nth-child(5) span { 
