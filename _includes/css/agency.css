@@ -956,7 +956,7 @@ body {
 }
 
 .cb-slideshow li:nth-child(1) span { 
-    background-image: url(img/Altar.jpg) 
+    background-image: url(img/portfolio/Altar.jpg) 
 }
 .cb-slideshow li:nth-child(2) span { 
     background-image: url(img/church2.jpg);
