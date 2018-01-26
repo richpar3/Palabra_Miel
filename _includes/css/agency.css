@@ -956,26 +956,26 @@ body {
 }
 
 .cb-slideshow li:nth-child(1) span { 
-    background-image: url(img/portfolio/Altar.jpg) 
+    background-image: url(img/Altar.JPG) 
 }
 .cb-slideshow li:nth-child(2) span { 
-    background-image: url(img/church2.jpg);
+    background-image: url(img/church2.JPG);
     animation-delay: 6s; 
 }
 .cb-slideshow li:nth-child(3) span { 
-    background-image: url(img/church3.jpg);
+    background-image: url(img/church3.JPG);
     animation-delay: 12s; 
 }
 .cb-slideshow li:nth-child(4) span { 
-    background-image: url(img/church4.jpg);
+    background-image: url(img/church4.JPG);
     animation-delay: 18s; 
 }
 .cb-slideshow li:nth-child(5) span { 
-    background-image: url(img/flame.jpg);
+    background-image: url(img/flame.JPG);
     animation-delay: 24s; 
 }
 .cb-slideshow li:nth-child(6) span { 
-    background-image: url(img/church1.jpg);
+    background-image: url(img/church1.JPG);
     animation-delay: 30s; 
 }
 
