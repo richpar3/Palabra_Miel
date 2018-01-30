@@ -279,7 +279,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/wheat2.jpg');
+    background-image: url('{{ site.baseurl }}/img/sunrise2.1.jpg');
     
     background-position: center center;
     /* Adding this part */
